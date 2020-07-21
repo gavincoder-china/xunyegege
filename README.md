@@ -11,7 +11,7 @@
 
 
 
-<p><em>菜鸡技术栈<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>98年菜鸡技术栈<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ```java
