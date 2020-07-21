@@ -56,7 +56,7 @@
 
 ### 联系方式
 
-- 邮箱   &ensp; [![Mail](https://img.shields.io/badge/-xunyegege@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:xunyegege@gmail.com)
+- 邮箱   &ensp; xunyegege@gmail.com
 
   ​    &ensp; &ensp; &ensp;       gavincoder@163.com
 
