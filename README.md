@@ -1,4 +1,19 @@
 ### 欢迎各位大佬们👋
+-------
+
+
+```java
+1: Java基础扎实，了解多线程并发编程、集合等，了解JUC源码设计，能够进行代码调优
+2: 熟悉Java虚拟机，了解JVM内存模型、垃圾回收机制、垃圾收集器、系统故障排查调优等
+3: 熟练使用MySQL数据库，了解数据库索引设计，能够对SQL进行调优
+4: 熟练使用SpringBoot、Mybatis等框架，了解Spring相关原理及其背后的设计模式
+5: 熟悉分布式微服务架构，能够熟练使用SpringCloud进行项目开发
+6: 熟悉分布式场景下Redis缓存的设计与优化 
+7: 了解RocketMQ、ElasticSearch、Zookeeper等分布式中间件
+8: 熟悉常用的Linux命令，能够使用Docker部署SpringBoot项目
+```
+
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xunyegege&show_icons=true&hide=["contribs","prs"])
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ## Reach Me
