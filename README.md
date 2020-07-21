@@ -58,7 +58,7 @@
 
 - 邮箱   &ensp; [![Mail](https://img.shields.io/badge/-xunyegege@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:xunyegege@gmail.com)
 
-  ​     &ensp; &ensp;       gavincoder@163.com
+  ​    &ensp; &ensp; &ensp;       gavincoder@163.com
 
 - 微信  &ensp;   gavincoder
 
