@@ -44,7 +44,7 @@
 ----- 
 
 
-## 博客站点
+### 博客站点
 
 - 语雀   &ensp;&ensp;     https://www.yuque.com/gavincoder
 - 博客园  &ensp;     https://www.cnblogs.com/gavin-coder/
@@ -54,7 +54,7 @@
 
 
 
-## 联系方式
+### 联系方式
 
 - 邮箱   &ensp; [![Mail](https://img.shields.io/badge/-xunyegege@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:xunyegege@gmail.com)
 
