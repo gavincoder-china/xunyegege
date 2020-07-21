@@ -1,7 +1,8 @@
 ### 欢迎各位大佬们👋
 -------
 
-
+<p><em>菜鸡技术栈<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 ```java
 1: Java基础扎实，了解多线程并发编程、集合等，了解JUC源码设计，能够进行代码调优
 2: 熟悉Java虚拟机，了解JVM内存模型、垃圾回收机制、垃圾收集器、系统故障排查调优等
