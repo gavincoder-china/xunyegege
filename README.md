@@ -1,6 +1,12 @@
 ### 欢迎各位大佬们👋
 -------
 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xunyegege&show_icons=true&hide=["contribs","prs"])
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+
+
 <p><em>菜鸡技术栈<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -16,8 +22,6 @@
 ```
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xunyegege&show_icons=true&hide=["contribs","prs"])
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 
