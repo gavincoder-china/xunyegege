@@ -32,10 +32,6 @@
 
 有一些仓库是我多年前初入技术圈时写的，内容有所陈旧，参考了很多大佬们的精美仓库，决心好好装修整理优化一遍。
 
-
-## Reach Me
-
-
 <div>
 <a href="https://github.com/xunyegege/Backend_development">
   <img  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xunyegege&repo=Backend_development" />
@@ -44,3 +40,25 @@
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xunyegege&repo=source" />
 </a>
 </div>
+
+----- 
+
+
+## 博客站点
+
+- 语雀        https://www.yuque.com/gavincoder
+- 博客园    https://www.cnblogs.com/gavin-coder/
+- CSDN       https://blog.csdn.net/weixin_39200308 
+- LOVE        http://love.pythonforever.com/
+- SITE         https://xunyegege.github.io/
+
+
+
+## 联系方式
+
+- 邮箱    [![Mail](https://img.shields.io/badge/-xunyegege@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:xunyegege@gmail.com)
+
+  ​             gavincoder@163.com
+
+- 微信     gavincoder
+
