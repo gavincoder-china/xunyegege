@@ -56,9 +56,8 @@
 
 ### 联系方式
 
-- 邮箱   &ensp; xunyegege@gmail.com
+- 邮箱   &ensp; xunyegege@gmail.com  ​    &ensp; &ensp; &ensp;       gavincoder@163.com
 
-  ​    &ensp; &ensp; &ensp;       gavincoder@163.com
 
 - 微信  &ensp;   gavincoder
 
