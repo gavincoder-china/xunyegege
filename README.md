@@ -46,19 +46,19 @@
 
 ## 博客站点
 
-- 语雀        https://www.yuque.com/gavincoder
-- 博客园    https://www.cnblogs.com/gavin-coder/
-- CSDN       https://blog.csdn.net/weixin_39200308 
-- LOVE        http://love.pythonforever.com/
-- SITE         https://xunyegege.github.io/
+- 语雀   &ensp;     https://www.yuque.com/gavincoder
+- 博客园  &ensp;     https://www.cnblogs.com/gavin-coder/
+- CSDN   &ensp;    https://blog.csdn.net/weixin_39200308 
+- LOVE   &ensp;     http://love.pythonforever.com/
+- SITE   &ensp;      https://xunyegege.github.io/
 
 
 
 ## 联系方式
 
-- 邮箱    [![Mail](https://img.shields.io/badge/-xunyegege@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:xunyegege@gmail.com)
+- 邮箱   &ensp; [![Mail](https://img.shields.io/badge/-xunyegege@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:xunyegege@gmail.com)
 
-  ​             gavincoder@163.com
+  ​      &ensp;       gavincoder@163.com
 
-- 微信     gavincoder
+- 微信  &ensp;   gavincoder
 
