@@ -45,11 +45,15 @@
 
 ### 博客站点
 
-- 语雀   &ensp;&ensp;     https://www.yuque.com/gavincoder
-- 博客园  &ensp;     https://www.cnblogs.com/gavin-coder/
-- CSDN   &ensp;    https://blog.csdn.net/weixin_39200308 
-- LOVE   &ensp;     http://love.pythonforever.com/
-- SITE   &ensp;      https://xunyegege.github.io/
+|                                    |                                       |
+| ---------------------------------- | ------------------------------------- |
+| 语雀（写作主力）                   | https://www.yuque.com/gavincoder      |
+| 博客园（只出精品系列）             | https://www.cnblogs.com/gavin-coder/  |
+| CSDN（早期小文章，现在转移到语雀） | https://blog.csdn.net/weixin_39200308 |
+| SITE（github的小站点）             | http://love.pythonforever.com/        |
+| LOVE（女友恋爱计时器）             | http://love.pythonforever.com/        |
+
+
 
 
 
