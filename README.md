@@ -37,7 +37,13 @@
 13、代码重度爱好者，有代码洁癖，编码规范高效，学习能力强，乐于挑战新技术、新事物
 ```
 
-### 优秀博文墙
+### 呕心沥血精品原创博文墙
+- [Java虚拟机](https://www.yuque.com/docs/share/eef8fcc4-f86f-4b2b-9ac5-ab59a29d8936?# 《JVM(完成度94%)》)
+- [Java并发多线程](https://www.yuque.com/docs/share/7c38e540-fad3-441a-bc22-b4c56a5e32c1?# 《多线程并发-吊打面试官系列/面试官防止被吊打系列(完成度60%)》)
+- [数据库系列](https://www.yuque.com/books/share/72669f02-4415-4583-8e91-baa5ace682ed?# 《MySQL数据库优化》)
+- [分布式微服务商城系列](https://www.yuque.com/books/share/514cc51f-8a51-455b-bda2-e189fdb49e7c?# 《分布式微服务商城项目文档》)
+- ...更多好文尽在语雀 https://www.yuque.com/gavincoder
+
 
 
 ### 最近项目计划
